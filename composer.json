@@ -1,0 +1,19 @@
+{
+    "name": "hojabekov_s/contact",
+    "description": "Email ga xabar yuborish va bazaga saqlash uchun ishlatiladi.",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Samandar",
+            "email": "xujabekov96@bk.ru"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Samandar\\Contact\\": "src/"
+        }
+    }
+}
